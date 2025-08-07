@@ -32,4 +32,4 @@ Cy5: 0 - 20,000
 
 Cy7: 20,000 - 60,000
 
-If you look under OlyVIA guides as a file you can find two PDFs that helped us work with OlyVIA!
+If you look under the file OlyVIA Guides you can find two PDFs that helped us work with OlyVIA!
