@@ -17,3 +17,19 @@ van Gennip, R. G., van de Water, S. G., & van Rijn, P. A. (2014). Bluetongue vir
 Mills, M. K., Michel, K., Pfannenstiel, R. S., Ruder, M. G., Veronesi, E., & Nayduch, D. (2017). Culicoides-virus interactions: infection barriers and possible factors underlying vector competence. Current opinion in insect science, 22, 7–15. https://doi.org/10.1016/j.cois.2017.05.003. 
 
 Fu, H., Leake, C. J., Mertens, P. P., & Mellor, P. S. (1999). The barriers to bluetongue virus infection, dissemination and transmission in the vector, Culicoides variipennis (Diptera: Ceratopogonidae). Archives of virology, 144(4), 747–761. https://doi.org/10.1007/s007050050540
+
+**Working with OlyVIA**:
+
+Through many trials and errors we found a way to navigate OlyVIA and worked with the settings to best view the channel colors without alterating the actual results. When opening an image with OlyVIA it was easiest for us to hit the default botton in the histogram settings. This allowed us to see all the midges clearly and at least understand their layout. Afterwards, we would go into the distinct settings for each channel. Unfortunately, OlyVIA does not allow you to edit multiple channel settings at once. It was a bit of a manual process, but essentially you would have to make sure only one channel was on when editing that channels settings. Here were the histogram settings that worked best for our images:
+
+DAPi: 10,000 - 40,000
+
+FitC: 10,000 - 40,000
+
+Cy3: 15,000 - 40,000
+
+Cy5: 0 - 20,000
+
+Cy7: 20,000 - 60,000
+
+If you look under OlyVIA guides as a file you can find two PDFs that helped us work with OlyVIA!
