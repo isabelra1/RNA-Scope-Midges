@@ -33,3 +33,7 @@ Cy5: 0 - 20,000
 Cy7: 20,000 - 60,000
 
 If you look under the file OlyVIA Guides you can find two PDFs that helped us work with OlyVIA!
+
+**Classifying Viral Presence**:
+
+In general, we would individually look at each channel and see if there was any presence in the following locations within the midge body: Midgut, Body Cavity, Salivary Gland, Head, Brain, Ommatidia, Lens. We would also note any overlap between where the channels were lighting up. There are limitations with this such as some midges missing their heads, differentiating ommatidia and lens, and differences depending on who is analyzing the images.
