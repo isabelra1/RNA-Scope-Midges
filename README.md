@@ -1,9 +1,10 @@
 # RNA-Scope-Midges
 
-Abstract: 
+**Abstract**: 
+
 Bluetongue virus (BTV) is a double-stranded RNA virus with a segmented genome that can cause devastating infections in ruminants. The Culicoides biting midge is the vector culpable for BTV transmission. As a virus with a segmented genome, there is limited understanding of BTV dissemination and cellular coinfection within the midge vector. This knowledge would augment understanding of BTV transmission dynamics and viral evolution via reassortment. Thus, the aim of this project is to investigate and compare BTV progression through insect dissemination barriers in midges that are infected with a single BTV serotype or coinfected with two different BTV serotypes. It is predicted that coinfection will result in accelerated dissemination compared to single infection. Pools of colony Culicoides sonorensis midges were harvested at prescribed timepoints after blood feeding. In situ hybridization was performed on histology slides prepared for each midge treatment group using the 4-plex fluorescent RNAscope platform to detect BTV-10 (segment 2 and 10) and BTV-17 (segment 2 and 10). Resulting confocal images were analyzed for cellular coinfection and dissemination patterns. Current results indicate dissemination in coinfected midges beyond the midgut escape barrier consistently by 4 days post infection. Understanding how BTV coinfection may affect transmission dynamics and evolution will add an important facet to modeling and mitigation strategies for this virus of high consequence.
 
-Further References: 
+**Further References**: 
 
 Carpenter, M., Benavides Obon, A., Kopanke, J., Lee, J., Reed, K., Sherman, T., Rodgers, C., Stenglein, M., McDermott, E., & Mayo, C. In Situ Hybridization (RNAscope) Detection of Bluetongue Virus Serotypes 10 and 17 in Experimentally Co-Infected Culicoides sonorensis. Pathogens (2023), 12(10).
 
